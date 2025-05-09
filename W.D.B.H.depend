@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1701969707 source:c:\users\mufum\desktop\w.d.b.h\main.c
+	<stdio.h>
+	<windows.h>
+	<stdbool.h>
+
+1700427543 source:c:\users\mufum\desktop\w.d.b.h\welcome.c
+	<stdio.h>
+
